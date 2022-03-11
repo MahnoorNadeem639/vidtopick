@@ -5,7 +5,7 @@ This is the Final Year Project (FYP) of Software Engineering Major Students.
 
 This repo contains a DJANGO based Web App that can generate subtitles of any video by use of Machine Learning model developed by us.
 
-This is the parent repository that automated the <a href="https://github.com/Mahnoor-ismail01/py-srt-generator">Subtitle Generator</a> to be worked as a Web based application easily and effectively.
+This is the parent repository that automated the <a href="https://github.com/Mahnoor-ismail01/py-srt-generator" target="_blank">Subtitle Generator</a> to be worked as a Web based application easily and effectively.
 
 ## How to Run
 
@@ -31,6 +31,6 @@ cd vidtopic
 python manage.py runserver
 ```
 
-Your server shall be live at <a href="localhost:8000">localhost:8000</a>
+Your server shall be live at <a href="http://localhost:8000" target="_blank">localhost:8000</a>
 
 Enjoy :)
