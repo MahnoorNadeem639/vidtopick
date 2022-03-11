@@ -1,0 +1,3 @@
+[submodule "py-srt-generator"]
+	path = py-srt-generator
+	url = https://github.com/Mahnoor-ismail01/py-srt-generator
