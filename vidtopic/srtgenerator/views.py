@@ -4,7 +4,7 @@ from django.conf import settings
 import subprocess as sp
 # Create your views here.
 
-MODEL_SCRIPT_PATH = "/home/mahnoor/vidtopick"
+MODEL_SCRIPT_PATH = "../../py-srt-generator"
 
 def index(request):
     if request.method == "POST":
