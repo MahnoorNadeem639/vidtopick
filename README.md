@@ -33,4 +33,4 @@ python manage.py runserver
 
 Your server shall be live at <a href="http://localhost:8000" target="_blank">localhost:8000</a>
 
-Enjoy :)
+Enjoy  :)
